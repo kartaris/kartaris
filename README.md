@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am on the way to become Software Architect 🚀
+- 🔭 Currently working on some Qt-based projects
+- 🌱 Learning software architectures, CI\CD techniques, information security and many other stuff.
+
 <!--
 **kartaris/kartaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![kartaris Stats](https://github-readme-stats.vercel.app/api?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=trueh)](https://github.com/kartaris)
