@@ -5,7 +5,7 @@
 
 I am on the way to become Software Architect 🚀
 - 🔭 Currently working on some Qt-based projects
-- 🌱 Learning software architectures, CI\CD techniques, information security and many other stuff.
+- 🌱 Learning software architectures, CI\CD techniques, information security and many other stuff
 
 <!--
 **kartaris/kartaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
