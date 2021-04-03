@@ -1,3 +1,6 @@
+[![GitHub followers](https://img.shields.io/github/followers/kartaris?label=GitHub&style=for-the-badge)](https://github.com/kartaris)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kartaris?label=Twitter&style=for-the-badge)](https://twitter.com/kartaris)  
+
 ### Hi there 👋
 
 I am on the way to become Software Architect 🚀
