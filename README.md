@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kartaris Stats](https://github-readme-stats.vercel.app/api?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=trueh)](https://github.com/kartaris)
+[![kartaris Stats](https://github-readme-stats.vercel.app/api?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/kartaris)
