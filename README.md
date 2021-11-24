@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 [![kartaris Stats](https://github-readme-stats.vercel.app/api?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/kartaris)
 
-[![kartaris Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/kartaris)
+[![kartaris Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&layout=compact)](https://github.com/kartaris)
 
