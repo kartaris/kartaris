@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 
 [![kartaris Stats](https://5a5c0de3.getflow.tech/api?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/kartaris)
 
-[![kartaris Top Langs](https://5a5c0de3.getflow.tech/api/top-langs/?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&layout=compact)](https://github.com/kartaris)
-
+[![kartaris Top Langs](https://5a5c0de3.getflow.tech/api/top-langs/?username=kartaris&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&layout=compact)](https://github.com/kartaris?tab=repositories)
